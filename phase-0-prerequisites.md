@@ -18,7 +18,7 @@ Here is a rough timeline of what you should expect between now and your Phase 0 
 
 #### 0. Brief Introduction
 
-During Phase 0, you can expect to spend about 15-25 hours a week (on average) on the requirements and challenges in the curriculum. While there is some flexibility in when you decide do these challenges during the week, this is still a very intense experience that needs to be given time and dedication. It is not a time to go on a trip or vacation -- especially if you will be away from the Internet. The curriculum is separated into weeks, and each week is due the Monday following its release. The program is not self-paced.
+During Phase 0, you can expect to spend about 15-25 hours a week (on average) on the requirements and challenges in the curriculum. While there is some flexibility in when you decide to do these challenges during the week, this is still a very intense experience that needs to be given time and dedication. It is not a time to go on a trip or vacation -- especially if you will be away from the Internet. The curriculum is separated into weeks, and each week is due the Monday following its release. The program is not self-paced.
 
 ##### Work and Phase 0
 Phase 0 is intense even though it is part-time. We encourage all students to continue working at least in a part-time capacity during Phase 0. This gives you additional financial stability -- it's expensive to take 10-16 weeks off for the on-site experience as well as time for job hunting. It also allows you to discover whether Dev Bootcamp is right for you with less pressure. If you find out web development isn't for you, it's important to have options.
